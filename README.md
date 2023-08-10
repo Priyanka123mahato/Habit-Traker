@@ -15,14 +15,24 @@ You may also see any lint errors in the console.
 
 # VS code terminal
 1.node -v
+
 2.npm init
+
 3.npm install express
+
 4.git init
+
 5.git status
+
 6.git add
+
 7.git commit
+
 8.then create all files
+
 9.git add
+
 10.git commit
+
 11.npm start
-11
+
